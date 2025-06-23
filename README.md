@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/cd0ea764-d499-483b-b3e4-094aa3384264)# 🏢 Sewa Tenant - Sistem Administrasi Penyewaan Tenant Mall
 
 **Sewa Tenant** adalah aplikasi website berbasis PHP-MySQL yang digunakan untuk mengelola penyewaan tenant di pusat perbelanjaan. Website ini dikembangkan sebagai tugas akhir mata kuliah Web Programming 2.
 
