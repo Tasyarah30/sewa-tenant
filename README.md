@@ -50,18 +50,6 @@ This system aims to simplify and digitize tenant rental processes, reduce manual
 
 ---
 
-## 👩‍💻 Tim Pengembang | Developer Team
-
-Proyek ini dikembangkan oleh **Kelompok 2 – Kelas 19.3A.25**, Universitas Bina Sarana Informatika:
-
-- Tasya Rahmadina Zahrah (19215232)
-- Sari Indriani Parikaes (19215231)
-- Syahrul Iman (19215034)
-- Rizalul Fahmi (19215021)
-- Ahmadin Nurulloh Fil Ardiansyah (19215276)
-
----
-
 ## 📌 Catatan
 
 Proyek ini merupakan simulasi akademik. Semua data bersifat fiktif dan hanya digunakan untuk keperluan pembelajaran.
